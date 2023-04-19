@@ -77,7 +77,7 @@ En nuestro caso no vamos a tener la rama **develop**, asi se puede ver todo dire
 
 En el Dashboard por cada tarea, la convertimos en **issue**, usamos ese número de issue, para poder traquear la misma.
 
-1. Nos situamos siempre en la rama **main**, desde ahi creamos al nueva rama con: `$ git checkout -b feature/#4-clase1-js-ciclos`, este es un ejemplo para el issue #4 de la clase 1 de JavaScrit donde vimos cilos.
+1. Nos situamos siempre en la rama **main**, desde ahi creamos al nueva rama con: `$ git checkout -b feature/#4-clase1-js-ciclos`, este es un ejemplo para el issue #4 de la clase 1 de JavaScript donde vimos cilos.
 
 2. Siempre vamos a respetar la nomenclatura:
 
