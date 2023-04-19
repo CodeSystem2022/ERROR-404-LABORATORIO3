@@ -49,7 +49,7 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 - [clase 1: Ciclos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase1-ciclos)
 
-- clase 2: Arreglos
+- [clase 2: Arreglos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase2-arreglos)
 
 - clase 3: Funciones
 
