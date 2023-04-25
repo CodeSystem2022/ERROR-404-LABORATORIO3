@@ -35,11 +35,13 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 ### :book: Clases:
 
-- clase 1: Excepciones
+- [clase 1: Excepciones](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_01_Leccion01)
 
 - clase 2: Manejo de archivos
 
 - clase 3: Proyecto catálogo de películas
+
+- clase 4: postgresql
 
 ---
 
@@ -52,6 +54,8 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 - [clase 2: Arreglos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase2-arreglos)
 
 - [clase 3: Funciones](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase3-funciones)
+
+- [clase 4: Objetos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase4-objetos)
 
 ---
 
