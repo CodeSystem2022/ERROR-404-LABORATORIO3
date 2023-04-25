@@ -37,7 +37,7 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 - [clase 1: Excepciones](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_01_Leccion01)
 
-- clase 2: Manejo de archivos
+- [clase 2: Manejo de archivos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_02/Leccion2)
 
 - clase 3: Proyecto catálogo de películas
 
