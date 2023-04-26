@@ -41,7 +41,7 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 - clase 3: Proyecto catálogo de películas
 
-- clase 4: postgresql
+- [clase 4: postgresql](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_04/Leccion04/BD)
 
 ---
 
