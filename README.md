@@ -43,6 +43,10 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 - [clase 4: postgresql](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_04/Leccion04/BD)
 
+- [clase 5: Registros con Postgresql y PythonLección](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/clase_05)
+
+- clase 6 
+
 ---
 
 ## <img src="https://img.icons8.com/color/50/null/javascript--v1.png"/> JAVASCRIPT
@@ -58,6 +62,8 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 - [clase 4: Objetos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase4-objetos)
 
 - [clase 5: Objetos - parte 2](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase5-objetos-parte2)
+
+- clase 6: Transacciones en Postgresql y PythonLección
 
 ---
 
