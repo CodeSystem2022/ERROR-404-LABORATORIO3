@@ -57,6 +57,8 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 - [clase 4: Objetos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase4-objetos)
 
+- [clase 5: Objetos - parte 2](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase5-objetos-parte2)
+
 ---
 
 ## Metodología de trabajo
