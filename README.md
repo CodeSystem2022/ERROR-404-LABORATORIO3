@@ -63,7 +63,7 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 - [clase 5: Objetos - parte 2](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase5-objetos-parte2)
 
-- [clase 6: ](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/clase_06)
+- [clase 6: Clases](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/Clase%206-Clases)
 
 ---
 
