@@ -35,19 +35,19 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 ### :book: Clases:
 
-- [clase 1: Excepciones](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_01_Leccion01)
+#### [clase 1: Excepciones](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_01_Leccion01)
 
-- [clase 2: Manejo de archivos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_02/Leccion2)
+#### [clase 2: Manejo de archivos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_02/Leccion2)
 
-- [clase 3: Proyecto catálogo de películas](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_03/Leccion_03)
+#### [clase 3: Proyecto catálogo de películas](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_03/Leccion_03)
 
-- [clase 4: postgresql](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_04/Leccion04/BD)
+#### [clase 4: postgresql](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_04/Leccion04/BD)
 
-- [clase 5: Registros con Postgresql y PythonLección](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/clase_05)
+#### [clase 5: Registros con Postgresql y PythonLección](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/clase_05)
 
-- [clase 6: Transacciones en Postgresql y PythonLección ](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/clase_06)
+#### [clase 6: Transacciones en Postgresql y PythonLección ](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/clase_06)
 
-- Clase 7: Capa de Datos: Logging y Postgresql Parte 1
+#### Clase 7: Capa de Datos: Logging y Postgresql Parte 1
 
 ---
 
@@ -55,19 +55,19 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 ### :book: Clases:
 
-- [clase 1: Ciclos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase1-ciclos)
+#### [clase 1: Ciclos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase1-ciclos)
 
-- [clase 2: Arreglos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase2-arreglos)
+#### [clase 2: Arreglos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase2-arreglos)
 
-- [clase 3: Funciones](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase3-funciones)
+#### [clase 3: Funciones](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase3-funciones)
 
-- [clase 4: Objetos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase4-objetos)
+#### [clase 4: Objetos](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase4-objetos)
 
-- [clase 5: Objetos - parte 2](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase5-objetos-parte2)
+#### [clase 5: Objetos - parte 2](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase5-objetos-parte2)
 
-- [clase 6: Clases](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/Clase%206-Clases)
+#### [clase 6: Clases](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/Clase%206-Clases)
 
-- [Clase 7- heredar métodos, sobreescritura, clase Object, toString, sobreescritura y Polimorfismo](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase7-clases-parte2)
+#### [Clase 7- heredar métodos, sobreescritura, clase Object, toString, sobreescritura y Polimorfismo](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase7-clases-parte2)
 
 ---
 
