@@ -47,6 +47,8 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 - [clase 6: Transacciones en Postgresql y PythonLección ](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/clase_06)
 
+- Clase 7: Capa de Datos: Logging y Postgresql Parte 1
+
 ---
 
 ## <img src="https://img.icons8.com/color/50/null/javascript--v1.png"/> JAVASCRIPT
@@ -64,6 +66,8 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 - [clase 5: Objetos - parte 2](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase5-objetos-parte2)
 
 - [clase 6: Clases](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/Clase%206-Clases)
+
+- [Clase 7- heredar métodos, sobreescritura, clase Object, toString, sobreescritura y Polimorfismo](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase7-clases-parte2)
 
 ---
 
