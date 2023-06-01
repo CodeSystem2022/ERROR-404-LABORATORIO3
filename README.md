@@ -15,9 +15,7 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 - Alancay, Abel Matias                
 
-- Alsina, Maximiliano Gabriel    
-
-- Berrini, Alejandro                       
+- Alsina, Maximiliano Gabriel                     
 
 - Calle, Sonia 
 
