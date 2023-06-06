@@ -1,0 +1,39 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>80</x><y>390</y><w>210</w><h>190</h></coordinates><panel_attributes>Conexion
+--
+-DATABASE: String
+-USERNAME: String
+-PASSWORD: String
+-DB PORT: String
+-conexion; connection
+-cursor; Cursor
+--
++obtenerConexion(cls); Connection
++obtenerCursor(cls); Cursor
+--
+Responsibilities
+Administrar la conexion a la base de datos</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>110</x><y>570</y><w>260</w><h>150</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>240;130;10;130;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>350</x><y>660</y><w>210</w><h>240</h></coordinates><panel_attributes>PersonaDao
+--
+-SELECIONAR: String
+-INSERTAR: String
+-ACTUALIZAR: String
+-ELIMINAR: String
+--
++selecionar(cls)
++insertar(cls, persona)
++actualizas(cls, persona)
+-eliminar(cls, persona)
+--
+Responsibilities
+Realizar las operaciones sobre la base de datos de la entidad
+Persona</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>370</x><y>400</y><w>210</w><h>190</h></coordinates><panel_attributes>Persona
+--
+-id_persona: int
+-nombre: String
+-apellido: String
+-email: String
+--
++__str__(): String
++metodo Get/Set de cada atributo
+--
+Responsibilities
+Crear objetos de la entidad Persona</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>460</x><y>580</y><w>30</w><h>100</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;80;10;10</additional_attributes></element></diagram>
