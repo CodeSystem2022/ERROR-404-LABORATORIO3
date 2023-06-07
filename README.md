@@ -63,7 +63,7 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 #### [clase 5: Objetos - parte 2](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase5-objetos-parte2)
 
-#### [clase 6: Clases](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/Clase%206-Clases)
+#### [clase 6: Clases](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase6-clases)
 
 #### [Clase 7 - heredar métodos, sobreescritura, clase Object, toString, sobreescritura y Polimorfismo](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase7-clases-parte2)
 
