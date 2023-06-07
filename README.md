@@ -74,7 +74,7 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 #### [Clase 8 -static](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase8-static-js)
 
-#### Clase 9: Herencia
+#### [Clase 9: Herencia](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase9herencia)
 
 ---
 
