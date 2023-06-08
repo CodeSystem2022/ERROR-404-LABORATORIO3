@@ -1,0 +1,48 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>30</x><y>20</y><w>270</w><h>240</h></coordinates><panel_attributes>Conexion
+--
+_-DATABASE: Sring_
+_-USERNAME: String_
+_-PASSWORD: String_
+_-DB PORT: String_
+_-HOST: String_
+_-conexion: connection_
+_-cursor: Cursor_
+--
+/+obtenerConexion(cls): Conection/
+/+obtenerCursor(cls): Cursor/
+/+cerrar(cls)/
+--
+Responsabilidades:
+-- Administrar la conexión a la base de datos.</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>410</x><y>20</y><w>210</w><h>290</h></coordinates><panel_attributes>Persona
+--
+-id_persona: int
+-nombre: String
+-apellido: String
+-email:String
+--
++__str__(): String
++getIdPersona(): int
++getNombre(): String
++getApellido(): String
++getEmail(): String
+
++setApellido(apellido): String
++setNombre(nombre): String
++setEmail(email): String
+--
+Responsabilidades:
+Crear objetos de la clase Persona</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>230</x><y>380</y><w>230</w><h>220</h></coordinates><panel_attributes>PersonaDao
+--
+_-SELECCIONAR: String _
+_-INSERTAR: String _
+_-ACTUALIZAR: String _
+_-ELIMINAR: String _
+--
+/+seleccionar(cls)/
+/+insertar(cls, persona)/
+/+actualizar(cls, persona)/
+/+eliminar(cls, persona)/
+--
+Responsabilidades:
+Realizar las operaciones sobre la base 
+de datos de la entidad Persona.</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>120</x><y>250</y><w>130</w><h>260</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>110;240;10;240;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>450</x><y>300</y><w>140</w><h>150</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;130;120;130;120;10</additional_attributes></element></diagram>
