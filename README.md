@@ -11,21 +11,24 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 ## Integrantes:
 
-- Ahumada, Brian                         
+- [Ahumada, Brian](https://github.com/brianahumada)                        
 
-- Alancay, Abel Matias                
+- [Alancay, Abel Matias](https://github.com/matias9486)                
 
-- Alsina, Maximiliano Gabriel                     
+- [Alsina, Maximiliano Gabriel](https://github.com/MalsinaG)   
 
-- Calle, Sonia 
+- [Berrini, Alejandro](https://github.com/AlejandroEB89)                 
 
-- Chavez, Rodrigo                       
+- [Calle, Sonia](https://github.com/SoCalle) 
 
-- Costa, Maria Eugenia              
+- [Chavez, Rodrigo](https://github.com/RodrigoChavez1986)                       
 
-- Navarro, Lucas                                            
+- [Costa, Maria Eugenia](https://github.com/eugenia1984)              
 
-- Sanguinetti Flores ,Pablo
+- [Navarro, Lucas](https://github.com/LucasNavarro01)                                            
+
+- [Sanguinetti Flores, Pablo](https://github.com/Pablo1653)
+
 
 ---
 
