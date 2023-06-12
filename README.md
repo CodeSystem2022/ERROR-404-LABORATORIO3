@@ -50,10 +50,11 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 #### [clase 7: Capa de Datos: Logging y Postgresql Parte 1 ](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/clase_07)
 
-
 #### clase 8: Capa de Datos: Logging y Postgresql Parte 2
 
 #### [clase 9: Capa de Datos Parte 3](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/clase_09)
+
+#### clase 10: ool de conexiones con Python y Postgresql
 
 ---
 
@@ -78,6 +79,8 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 #### [Clase 8 -static](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase8-static-js)
 
 #### [Clase 9: Herencia](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase9herencia)
+
+#### Clase 10: Proyecto Ventas
 
 ---
 
