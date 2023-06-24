@@ -80,7 +80,7 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 #### [Clase 9: Herencia](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase9herencia)
 
-#### Clase 10: Proyecto Ventas
+#### [Clase 10: Proyecto Ventas](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/javascript/clase10-proyecto-ventas)
 
 ---
 
