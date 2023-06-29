@@ -56,6 +56,8 @@ Repositorio del grupo ERROR 404 para la materia Laboratorio de Computación 3
 
 #### [clase 10: pool de conexiones con Python y Postgresql](https://github.com/CodeSystem2022/ERROR-404-LABORATORIO3/tree/main/python/Clase_10/capa_datos_persona)
 
+#### clase 11: Pool de conexion - parte 2
+
 ---
 
 ## <img src="https://img.icons8.com/color/50/null/javascript--v1.png"/> JAVASCRIPT
